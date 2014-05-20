@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 10f6f3c49ea920342bcc9fe94759947a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - somMotorPuma: {instanceID: 0}
+  - somMotorFusca: {instanceID: 0}
+  - somMotorOpala: {instanceID: 0}
+  - somLixeira1: {fileID: 8300000, guid: 79324fa2e1660f0448519436ae9395fe, type: 3}
+  - somLixeira2: {fileID: 8300000, guid: a43f4421c10564f498c8a4a03b2947b3, type: 3}
+  - somParede1: {fileID: 8300000, guid: a1a78ef90e476a746a973ac6979b109a, type: 3}
+  - somParede2: {fileID: 8300000, guid: 02d2fa6b9ef435749a0fb7f6afb2bda3, type: 3}
+  - somParede3: {fileID: 8300000, guid: 5834aabd545696444931e9a797e8b088, type: 3}
+  - somParede4: {fileID: 8300000, guid: d51574a779b693e4c8080e1e2aeebae0, type: 3}
+  - somAgua: {fileID: 8300000, guid: af7ec3c43c2370a4b938873b007002b1, type: 3}
+  - somOleo: {fileID: 8300000, guid: e619477d4b0cf9b47808f307df15cba3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
